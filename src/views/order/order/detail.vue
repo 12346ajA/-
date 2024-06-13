@@ -5,7 +5,7 @@
       描述：订单详情
   -->
   <div class="pb50" v-loading="loading">
-    <div class="product-content">
+    <div class="product-contents">
       <!--基本信息-->
       <div class="common-form">基本信息</div>
       <div class="table-wrap">
